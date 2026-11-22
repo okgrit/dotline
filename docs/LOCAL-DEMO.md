@@ -9,6 +9,8 @@ The recorded rehearsal used Windows, Python 3.12 and source revision
 `71b3c8f9e32585ef2d48fb7ecb14fc3a7084e3ec`. Python 3.10+ and Git must already
 be installed. Installation may download build tooling.
 
+Using Bash? See the [Bash walkthrough](LOCAL-DEMO-POSIX.md).
+
 ## Terminal A: install and start an isolated mailbox
 
 Use a new empty directory and keep both terminals in that directory. The commands
@@ -75,3 +77,4 @@ and remote HTTPS need their own checks. Retain the
 If you get stuck, report the source revision, operating system, command stage
 and redacted error in an [issue](https://github.com/Grit-77/dotline/issues).
 Do not include bearer values or private message contents.
+
